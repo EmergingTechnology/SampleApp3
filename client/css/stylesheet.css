@@ -1,0 +1,7 @@
+.css-forminput.ng-invalid.ng-touced {
+  background-color : #FA787E;
+}
+
+.css-form input.ng-invalid.ng-touced {
+  background-color : #78FA89;
+}
